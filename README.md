@@ -5,8 +5,13 @@
 <h2>GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genie-ru&layout=compact&theme=dark" alt="Top Langs" />
   <img src="https://github-readme-stats.vercel.app/api?username=genie-ru&show_icons=true&theme=dark" alt="GitHub stats" />
+</p>
+
+<h2>Top Languages</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genie-ru&layout=compact&theme=dark" alt="Top Langs" />
 </p>
 
 <h2>Github graph</h2>
