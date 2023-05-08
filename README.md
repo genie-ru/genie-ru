@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=genie-ru&theme=dracula)
+[![github-chart](https://github-chart.vercel.app/api?user=genie-ru)](https://github.com/genie-ru/github-chart)
 <!-- GitHub Readme Stats -->
 <h2>GitHub Stats</h2>
 <a href="https://github.com/genie-ru/github-readme-stats">
