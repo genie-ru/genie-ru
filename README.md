@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=genie-ru&theme=dracula">
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=genie-ru&theme=dracula)
 <!-- GitHub Readme Stats -->
 <h2>GitHub Stats</h2>
 <a href="https://github.com/genie-ru/github-readme-stats">
