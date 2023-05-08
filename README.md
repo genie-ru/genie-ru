@@ -11,6 +11,6 @@
 </p>
 <h2>Github graph</h2>
 
-<p align="center">
+<p align="left">
   <img src="https://github-chart.vercel.app/api?user=genie-ru&theme=midnight-purple" alt="GitHub graph" />
 </p>
