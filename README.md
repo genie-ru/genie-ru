@@ -9,6 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genie-ru&count_private=true&theme=vue-dark" />
 </a>
 <h2>Github graph</h2>
+
 [![github-chart](https://github-chart.vercel.app/api?user=genie-ru)](https://github.com/genie-ru/github-chart)
 <!-- GitHub Readme Stats -->
 <!--
