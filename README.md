@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=genie-ru&theme=vue-dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=genie-ru&theme=dracula)
 
 <p>
 <a href="https://github.com/miwashutaro0611">
