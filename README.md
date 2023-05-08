@@ -8,6 +8,7 @@
 <a href="https://github.com/genie-ru/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genie-ru&count_private=true&theme=vue-dark" />
 </a>
+
 [![github-chart](https://github-chart.vercel.app/api?user=genie-ru)](https://github.com/genie-ru/github-chart)
 <!-- GitHub Readme Stats -->
 <!--
