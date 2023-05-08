@@ -10,11 +10,3 @@
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miwashutaro0611&layout=compact&theme=dracula" />
 </a>
 </p>
-
-<br/><br/>
-
-<br clear="left">
-
-<p align="left">
-  <img src="https://github-chart.vercel.app/api?user=genie-ru&theme=midnight-purple" alt="GitHub graph" />
-</p>
