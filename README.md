@@ -13,6 +13,6 @@
 
 <p>
 <a href="https://github.com/genie-ru">
-  <img align="left" height="170px" weight="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=genie-ru&theme=react&utcOffset=8" />
+  <img align="left" height="170px" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=genie-ru&theme=react&utcOffset=8" />
 </a>
 </p>
