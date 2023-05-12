@@ -10,9 +10,3 @@
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genie-ru&layout=compact&theme=react" />
 </a>
 </p>
-
-<p>
-<a href="https://github.com/genie-ru">
-  <img align="left" height="170px" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=genie-ru&theme=react&utcOffset=8" />
-</a>
-</p>
