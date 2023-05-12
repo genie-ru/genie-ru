@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=genie-ru&theme=tokyonight)
+![Genie's GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=genie-ru&theme=tokyonight)
 
 <p>
 <a href="https://github.com/genie-ru">
