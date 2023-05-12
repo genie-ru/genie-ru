@@ -13,7 +13,7 @@
 
 <p>
 <a href="https://github.com/genie-ru">
-  <img align="left" height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=genie-ru&theme=react" />
+  <img align="left" height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=genie-ru&theme=react" />
 </a>
 <a href="https://github.com/genie-ru">
   <img align="left" height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=genie-ru&theme=react&utcOffset=8" />
