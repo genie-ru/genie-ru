@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="https://github.com/genie-ru">
-  <img align="left" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=genie-ru&theme=react")
+  <img align="left" height="220px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=genie-ru&theme=react")
 </a>
 <p>
 <a href="https://github.com/genie-ru">
