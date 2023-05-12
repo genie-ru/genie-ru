@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <a href="https://github.com/genie-ru">
   <img align="left" height="210px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=genie-ru&theme=react")
 </a>
